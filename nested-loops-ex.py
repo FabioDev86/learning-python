@@ -1,0 +1,3 @@
+
+
+print(isinstance(str, "aa"))
